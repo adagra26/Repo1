@@ -1,1 +1,2 @@
 cat /etc/passwd > /tmp/result.out
+sudo yum install nginx
